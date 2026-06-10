@@ -368,7 +368,7 @@ a, button, input, textarea, select {
 
 
 /* кнопочки на социальные сети */
-.social-bttns {
+.socialbttns {
     display: grid;
     grid-template-columns: 3;
     grid-template-rows: 2;

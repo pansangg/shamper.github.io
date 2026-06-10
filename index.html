@@ -58,4 +58,16 @@
             title.style.setProperty("--y", `${y}%`);
         });
     </script>
+    <script>
+        document.addEventListener("click", (e) => {
+            const card = e.target.closest(".social-bttn");
+
+            if (!card) return;
+
+            const link = card.dataset.link;
+            if (link) {
+                window.location.href = link;
+            }
+        });
+    </script>
 </html>
