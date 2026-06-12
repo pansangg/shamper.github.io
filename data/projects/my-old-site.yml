@@ -1,0 +1,26 @@
+id: my-old-site
+title: Мой старый сайт
+type: Сайт
+role: Владелец
+icon: assets/projects/my-old-site/icon.ico
+
+# reach:
+#   - type: members
+#     value: 25
+
+description: "Teleport plugin"
+
+team:
+  - name: Ivan
+    role: owner
+    url: https://t.me/xxx
+
+# gallery:
+#   - assets/img1.png
+#   - assets/img2.png
+
+links:
+  github: https://github.com/xxx
+  telegram: https://t.me/xxx
+
+status: active

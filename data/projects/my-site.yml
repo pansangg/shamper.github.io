@@ -1,0 +1,33 @@
+id: my-site
+title: Мой сайт
+type: Сайт
+role: Владелец
+icon: assets/projects/my-site/icon.ico
+
+description: "Мой сайт с инфой обо мне и моим портфолио"
+
+# team:
+#   - name: Ivan
+#     role: owner
+#     url: https://t.me/xxx
+
+gallery:
+  - assets/projects/my-site/img1.png
+  # - assets/img2.png
+
+links:
+  GitHub: https://github.com/Red-Piston/shamper.github.io
+  Ссылка: https://shamper.ru
+  # telegram: https://t.me/xxx
+
+history:
+  - date: "10 июня 2026"
+    text: "Начата полная перепись моего старого сайта. Полностью переработана внешка, страницы и их работа. Стало проще и быстрее"
+
+  - date: "11 июня 2026"
+    text: "Добавлена страничка с ченджлогом, на которой отображается вся история изменений сайта"
+
+  - date: "12 июня 2026"
+    text: "Добавлена страница с портфолио. Все проекты и наработки в одном месте - аж гордость берёт"
+
+status: Разрабатывается

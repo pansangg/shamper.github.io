@@ -1,0 +1,29 @@
+id: isveryfun
+title: isvery.fun
+type: Домен
+role: Владелец
+icon: assets/projects/isveryfun/icon.png
+
+description: "Бесплатный поддомен isvery.fun для любого сайта и проекта"
+
+team:
+  - name: camper_crafting
+    avatar: assets/projects/avatars/camper_crafting.png
+    role: Владелец, разработчик
+    url: https://shamper.ru/
+  - name: pansangg
+    avatar: assets/projects/avatars/pansangg.png
+    role: Разработчик
+    url: https://pansangg.su
+
+history:
+  - date: "Апрель 2025"
+    text: "Был придуман isvery.fun - домен, и раздавать всем бесплатно поддомены для сайтов и проектов. Был разработан простенький сайт, первым участником (и последним) стал meexreay со своим сайтом (meex.lol). Помимо его сайта также домен использовался для многих pet проектов Кемпера"
+
+  - date: "Апрель 2026"
+    text: "Домен истёк. Продлевать дорого, никому не нужен. Вывод: прикрыть. Села муха на варенье - вот и всё стихотворение"
+
+links:
+  Ссылка: https://isvery.fun
+
+status: Закрыто

@@ -1,0 +1,16 @@
+id: easyfreezy
+title: EasyFreezy
+type: Плагин
+role: Разработчик
+icon: assets/projects/easyfreezy/icon.webp
+
+reach:
+  - type: downloads
+    value: 60+
+
+description: "Account freeze (like a ban)"
+
+links:
+  Modrinth: https://modrinth.com/plugin/easyfreezy
+
+status: Поддержка прекращена

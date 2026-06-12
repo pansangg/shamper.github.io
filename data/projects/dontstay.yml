@@ -1,0 +1,16 @@
+id: dontstay
+title: DontStay
+type: Плагин
+role: Разработчик
+icon: assets/projects/dontstay/icon.webp
+
+reach:
+  - type: downloads
+    value: 100+
+
+description: "Creating regions in which you must always run and not stand for a second"
+
+links:
+  Modrinth: https://modrinth.com/plugin/dontstay
+
+status: Поддержка прекращена

@@ -1,0 +1,66 @@
+id: termos-messenger
+title: termos
+type: Мессенджер
+role: Владелец
+icon: assets/projects/termos-messenger/icon.png
+
+reach:
+  - type: members
+    value: 25
+
+description: "termos mega super duper messenger omfg"
+
+team:
+  - name: camper_crafting
+    avatar: assets/projects/avatars/camper_crafting.png
+    role: Владелец, разработчик
+    url: https://shamper.ru/
+  - name: pansangg
+    avatar: assets/projects/avatars/pansangg.png
+    role: Бетатестер
+    url: https://pansangg.su/
+  - name: Terminator58
+    avatar: assets/projects/avatars/terminator58.webp
+    role: Бетатестер
+    url: https://t.me/Termin_58
+  - name: IKSOVY_24
+    avatar: assets/projects/avatars/iksovy_24.jpg
+    role: Бетатестер
+    url: https://t.me/IKSOVY_24
+  - name: Andromeda
+    avatar: assets/projects/avatars/andromeda.webp
+    role: Бетатестер
+  - name: suspiried
+    avatar: assets/projects/avatars/suspiriaparadise.jpg
+    role: Бетатестер
+  - name: koniaoo
+    avatar: assets/projects/avatars/koniaoo.jpg
+    role: Бетатестер
+    url: https://koniaoo-code.netlify.app/
+  - name: tormya
+    avatar: assets/projects/avatars/tormya.jpg
+    role: Бетатестер
+  - name: Skippy
+    avatar: assets/projects/avatars/Skippy.jpg
+    role: Бетатестер
+
+gallery:
+  - assets/projects/termos-messenger/img1.jpg
+  - assets/projects/termos-messenger/img2.jpg
+  - assets/projects/termos-messenger/img3.jpg
+
+history:
+  - date: "Февраль 2026"
+    text: "Начата разработка termos. Изначально это был проект по приколу, просто опробовать в деле Claude Sonnet 4.6. Но в процессе мессенджер начал иметь свой вид и функционал, и я решил продолжать его разработку. Позднее был создан Telegram канал для новостей проекта (да знаю странно, но так было удобнее всего). Были добавлены подарки как в Telegram. Позже был открыт набор на бета-тестирование. Кемпер продолжал добавлять кучу фич"
+
+  - date: "Март 2026"
+    text: "Дошлифована система комментариев к постам, переработано окно для отправки поста, полностью переработан дизайн на современный. Зародился новый локальный мемасик - [Не удалось расшифровать]. Позже вышло масштабное обновление которое принесло в termos опросы в постах, были обновлены настройки интерфейса и можно было теперь смотреть страницы профилей пользователей и каналов даже не авторизированным пользователям. Далее вышел масштабный фикс. Вышло опять обновление направленное на конфинденциальнось пользователей - добавлены настройки конфинденциальности"
+
+  - date: "Апрель 2026"
+    text: "И ещё одно крупное обновление - групповые чаты, пагинация чата, заработок валюты мессенджера (бесплатные подарки каждый день, реферальная система). Перед открытием были внесены изменения в экономику мессенджера - ребренд валюты, обесценивание старых NFT подарков, ну и бонусом pansangg и zom1nt проспонсировали покупку домена для мессенджера. И вот 5 апреля состоялось открытие мессенджера для всех. 11 апреля была анонсирована подписка orbium дающая косметические перки для пользователей. Но к сожалению, 16 апреля, было объявлено о прекращении поддержки termos. В основном это связано с выгоранием и событиями в жизни владельца мессенджера"
+
+links:
+  Telegram: https://t.me/termosmsg
+  Ссылка: https://termos-xi.vercel.app
+
+status: Поддержка прекращена, работает

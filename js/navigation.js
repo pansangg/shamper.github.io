@@ -29,6 +29,10 @@ function render(tab) {
 
         // fade in
         windowEl.classList.remove("hide");
+
+        if (tab === "portfolio") {
+            initPortfolio();
+        }
     }, 200);
 
     // const avatarWrapper = document.querySelector(".avatar-wrapper");
@@ -81,3 +85,12 @@ document.addEventListener("click", (e) => {
         avatar.classList.remove("avatar-rotating");
     }, 1000);
 });
+
+async function initPortfolio() {
+    if (!window.projectsLoaded) {
+        await window.loadProjects();
+        window.projectsLoaded = true;
+    }
+
+    renderProjects();
+}

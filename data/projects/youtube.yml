@@ -1,0 +1,19 @@
+id: youtube
+title: Кемпер
+type: YT Канал
+role: Владелец
+icon: assets/social-icons/youtube.png
+
+reach:
+  - type: subs
+    value: 5.500+
+
+description: "Мой ютуб канальчик со всякими видосиками"
+
+gallery:
+  - assets/projects/youtube/img1.jpg
+
+links:
+  YouTube: https://www.youtube.com/@camper_crafting/featured
+
+status: Изредка выпускаются видео

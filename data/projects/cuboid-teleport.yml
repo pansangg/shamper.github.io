@@ -1,0 +1,16 @@
+id: cuboid-teleport
+title: CuboidTeleport
+type: Плагин
+role: Разработчик
+icon: assets/projects/cuboid-teleport/icon.png
+
+reach:
+  - type: downloads
+    value: 700+
+
+description: "A simple plugin that adds teleportation: /call, /tpa, /home, /warp, /rtp, /tpr"
+
+links:
+  Modrinth: https://modrinth.com/plugin/cuboidteleport
+
+status: Поддержка прекращена

@@ -1,0 +1,19 @@
+id: previews
+title: Превьюшки
+type: Дизайн
+icon: assets/social-icons/youtube.png
+
+reach:
+  - type: count
+    value: 5
+
+description: "Все превьюшки для видео и стримов на YouTube которые я делал"
+
+gallery:
+  - assets/projects/previews/img1.jpg
+  - assets/projects/previews/img2.jpg
+  - assets/projects/previews/img3.jpg
+  - assets/projects/previews/img4.png
+  - assets/projects/previews/img5.jpg
+
+# status: Изредка выпускаются видео
